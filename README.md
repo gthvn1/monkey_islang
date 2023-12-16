@@ -3,11 +3,12 @@
 
 <img align="left" width="100" height="100" src="https://monkeylang.org/images/logo.png">
 
-Ahoy and welcome, dear voyager, to the shores of Monkey Islang! A curious haven nestled amidst the vast expanse of the digital ocean. Islang, reminiscent of the tales spun around the mystical 'Island,' hosts within its embrace two grand endeavors tethered to the legendary [MonkeyLang](https://monkeylang.org).
+Ahoy and welcome, dear voyager, to the shores of Monkey Islang! A curious haven nestled amidst the vast expanse of the digital ocean. Islang, reminiscent of the tales spun around the mystical Island, hosts within its embrace two grand endeavors tethered to the legendary [MonkeyLang](https://monkeylang.org).
 
 ---
 
-These pursuits unfold as an ersatz of a kernel, akin to the core of an enigmatic engine, and an interpreter—an ethereal conduit to the realms of syntax and semantics. Verily, it is an expedition of pure exploration, where the only aspiration is the ceaseless unraveling of these twin universes.
+These pursuits unfold as an ersatz of a kernel, akin to the core of an enigmatic engine, and an interpreter—an ethereal conduit to the realms of syntax and semantics.
+Verily, it is an expedition of pure exploration, where the only aspiration is the ceaseless unraveling of these twin universes.
 
 For this wondrous odyssey, we embark with three delightful vehicles, chariots of innovation: [Ocaml](https://ocaml.org/), [Rust](https://www.rust-lang.org/), [Zig](https://ziglang.org/)... each bearing its own flair and enchantment. With these, we shall chart our course through the uncharted.
 
