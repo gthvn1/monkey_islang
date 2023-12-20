@@ -1,9 +1,6 @@
 [submodule "kikuyu"]
 	path = kikuyu
 	url = git@github.com:gthvn1/kikuyu.git
-[submodule "zanzibar"]
-	path = zanzibar
-	url = git@github.com:gthvn1/zanzibar.git
 [submodule "orangutan"]
 	path = orangutan
 	url = git@github.com:gthvn1/orangutan.git
