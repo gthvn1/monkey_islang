@@ -7,3 +7,6 @@
 [submodule "redhowler"]
 	path = redhowler
 	url = git@github.com:gthvn1/redhowler.git
+[submodule "zanzibar"]
+	path = zanzibar
+	url = git@github.com:gthvn1/zanzibar.git
